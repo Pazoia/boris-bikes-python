@@ -17,6 +17,17 @@ Describe what the project does,
 
 ## User Story
 
+```
+As a person,
+So that I can use a bike,
+I'd like a docking station to release a bike.
+```
+```
+As a person,
+So that I can use a good bike,
+I'd like to see if a bike is working
+```
+
 ## Technologies
 
 * Python 3.8.2
@@ -29,10 +40,9 @@ Will need help filling out this field. To be completed.
 
 Work in progress:
 
-* Completed step 1
-* No spec file for testing created yet
+* Completed step 8
 
 ## Sources
 
 This was was created following a tutorial from Makers (the best place to learn how code well).  
-[Github tutorial link](https://github.com/makersacademy/course/blob/master/bookmark_manager/00_challenge_map.md)
+[Github tutorial link](https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.md)
