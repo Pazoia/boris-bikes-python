@@ -40,7 +40,7 @@ Will need help filling out this field. To be completed.
 
 Work in progress:
 
-* Completed step 8
+* Completed step 10
 
 ## Sources
 
