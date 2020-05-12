@@ -27,14 +27,26 @@ As a person,
 So that I can use a good bike,
 I'd like to see if a bike is working
 ```
+```
+As a member of the public
+So I can return bikes I've hired
+I want to dock my bike at the docking station
+```
+```
+As a member of the public
+So I can decide whether to use the docking station
+I want to see a bike that has been docked
+```
 
 ## Technologies
 
 * Python 3.8.2
+* Pytest
+* Mock
 
 ## Launch
 
-Will need help filling out this field. To be completed.
+
 
 ## Project Status
 
@@ -44,5 +56,5 @@ Work in progress:
 
 ## Sources
 
-This was was created following a tutorial from Makers (the best place to learn how code well).  
+This was was created following a tutorial from Makers, using Python instead of Ruby.
 [Github tutorial link](https://github.com/makersacademy/course/blob/master/boris_bikes/0_challenge_map.md)
